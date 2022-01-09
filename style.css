@@ -122,4 +122,11 @@ p {
     font-size: 16px;
     padding: 10px 15px;
   }
+  .email-link {
+    font-size: 16px;
+  }
+
+  .img-contact {
+    margin-bottom: 10px;
+  }
 }
